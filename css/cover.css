@@ -117,6 +117,13 @@ body {
   font-weight: bold;
 }
 
+.logo {
+  height: auto; 
+  width: auto; 
+  max-width: 25%; 
+  max-height: 25%;
+}
+
 
 /*
  * Footer
