@@ -118,10 +118,18 @@ body {
 }
 
 .logo {
-  height: auto; 
-  width: auto; 
-  max-width: 25%; 
+  height: auto;
+  width: auto;
+  max-width: 25%;
   max-height: 25%;
+}
+
+/* Andrew's image fade insert*/
+img {opacity:0;
+-moz-transition: opacity 2s; /* Firefox 4 */
+-webkit-transition: opacity 2s; /* Safari and Chrome */
+-o-transition: opacity 2s;
+transition: opacity 2s;
 }
 
 
