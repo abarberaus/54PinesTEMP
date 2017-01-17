@@ -24,7 +24,7 @@ a:hover {
  * Base structure
  */
 
-
+/* Changed background-color to transparent*/
 html,
 body {
   height: 100%;
